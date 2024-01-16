@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "97204161956",
+    "project_id": "winedine-81337",
+    "storage_bucket": "winedine-81337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97204161956:android:b5882023ab4539dd5a0531",
+        "android_client_info": {
+          "package_name": "com.example.winedine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97204161956-398corntlsue4u7uk6bppd8s18jt7aco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKUFZ07KnvBFK0ecBFLK1eHXVli82Lnps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97204161956-398corntlsue4u7uk6bppd8s18jt7aco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "97204161956-5333hl5o67mp0so2tr763tj4duckqt4l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.winedine"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
